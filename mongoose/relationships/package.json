@@ -1,0 +1,16 @@
+{
+  "name": "mongoose-relationship",
+  "version": "0.1.0",
+  "dependencies": {
+    "mongoose": "^4.1.1",
+    "mongoose-relationship": "0.1.4",
+    "lodash": "3.8.0",
+    "async": "1.2.1"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+  	"launch": "node index.js"
+  }
+}
