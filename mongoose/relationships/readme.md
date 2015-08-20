@@ -14,5 +14,5 @@ Be sure to drop collections `users` and `posts`:
 # Run
 
 ```
-$npm run launc
+$ npm run launch
 ```
